@@ -1,8 +1,7 @@
 # Labs-Redes—Cisco-Packet-Tracer
 Repositorio que contiene laboratorios y prácticas realizadas durante la asignatura de Redes 1 como parte de mi formación en Ingeniería en Sistemas.
-Objetivo
 
-Documentar y conservar prácticas relacionadas con la configuración, administración y troubleshooting de redes utilizando Cisco Packet Tracer.
+Objetivo: Documentar y conservar prácticas relacionadas con la configuración, administración y troubleshooting de redes utilizando Cisco Packet Tracer.
 
 Tecnologías y conceptos practicados
 Direccionamiento IPv4
