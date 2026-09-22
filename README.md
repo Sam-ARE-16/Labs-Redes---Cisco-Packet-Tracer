@@ -19,3 +19,5 @@ Autor: Samuel Augusto Rodríguez Encarnación
 
 Estudiante de Ingeniería en Sistemas
 Interesado en Networking, Infraestructura y Ciberseguridad.
+
+Las contraseñas para acceder al CLI de los laboratorios son: cisco y class.
